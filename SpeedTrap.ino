@@ -4,8 +4,6 @@
 
 #include "SpeedTrapSetup.h"
 
-
-
 int    HTTP_PORT   = 80;
 String HTTP_METHOD = "POST"; // or "POST"
 char   HOST_NAME[] = "speedingiscool.loclx.io"; // hostname of web server:
