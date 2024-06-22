@@ -1,8 +1,0 @@
-#line 1 "E:\\Desktop\\SpeedTrap\\.vscode\\settings.json"
-{
-    "python.languageServer": "Pylance",
-    "python.analysis.diagnosticSeverityOverrides": {
-        "reportMissingModuleSource": "none",
-        "reportShadowedImports": "none"
-    }
-}
