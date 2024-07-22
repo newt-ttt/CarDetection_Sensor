@@ -1,3 +1,3 @@
-#define SECRET_SSID "ShadyOaksFelineRetirementHome"
-#define SECRET_PASS "bike2hill4ever"
+#define SECRET_SSID "SSID"
+#define SECRET_PASS "PASS"
 
